@@ -4,7 +4,7 @@
 #
 Name     : rubygem-guard-compat
 Version  : 1.2.1
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/guard-compat-1.2.1.gem
 Source0  : https://rubygems.org/downloads/guard-compat-1.2.1.gem
 Summary  : No detailed summary available
