@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-05-06 18:22:16.297247
+# {'~>1.1', '~>1.2'}
+watchurl=https://rubygems.org/gems/guard-compat/versions/([0-1]\.[0-9]{1,2}(?:\.[0-9a-zA-Z]+)*)
